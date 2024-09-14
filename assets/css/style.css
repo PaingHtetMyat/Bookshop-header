@@ -169,10 +169,6 @@ body {
 
 /* Medium size */
 @media all and (max-width: 1023px) {
-    body {
-        background-color: green;
-    }
-
     #header .banner .container {
         width: 60%;
     }
@@ -189,10 +185,6 @@ body {
 
 /* Small size */
 @media all and (max-width: 767px) {
-    body {
-        background-color: blue;
-    }
-
     #header .navbar {
         height: 90px;
     }
@@ -221,10 +213,6 @@ body {
 
 /* Extra small size (mobile) */
 @media all and (max-width: 639px) {
-    body {
-        background-color: orange;
-    }
-
     #header .navbar .nav .nav-item {
         font-size: 25px;
     }
